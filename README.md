@@ -1,6 +1,6 @@
-# Nodebot Workshop
+# Mini Nodebot Workshop
 
-[![Build Status](https://travis-ci.org/tableflip/nodebot-workshop.svg?branch=master)](https://travis-ci.org/tableflip/nodebot-workshop) [![Dependency Status](https://david-dm.org/tableflip/nodebot-workshop.svg)](https://david-dm.org/tableflip/nodebot-workshop) [![Gitter](https://badges.gitter.im/join_chat.svg)](https://gitter.im/tableflip/nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/tableflip/mini-nodebot-workshop.svg?branch=master)](https://travis-ci.org/tableflip/mini-nodebot-workshop) [![Dependency Status](https://david-dm.org/tableflip/mini-nodebot-workshop.svg)](https://david-dm.org/tableflip/mini-nodebot-workshop) [![Gitter](https://badges.gitter.im/join_chat.svg)](https://gitter.im/tableflip/mini-nodebot-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <img src="http://nodebots.io/img/nodebot.png" width="175">
 
@@ -10,12 +10,12 @@ No hardware required!
 
 ```shell
 # Install
-npm install -g nodebot-workshop
+npm install -g mini-nodebot-workshop
 # Run
-nodebot-workshop
+mini-nodebot-workshop
 ```
 
-<img src="https://raw.githubusercontent.com/tableflip/nodebot-workshop/master/screenshot.png" width="560" alt="Nodebot workshop menu">
+<img src="https://raw.githubusercontent.com/tableflip/mini-nodebot-workshop/master/screenshot.png" width="560" alt="Nodebot workshop menu">
 
 A series of code challenges will teach you the basics of the [johnny-five][2] api, a framework for working with Arduino and other rapid prototyping boards.
 

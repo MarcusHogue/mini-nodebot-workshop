@@ -1,11 +1,4 @@
 [
   "blink_blink",
   "servo_wave",
-  "spin_motor_spin",
-  "light_switch",
-  "street_lamp",
-  "ping_bell",
-  "robot_arm",
-  "remote_temperature",
-  "fire_alarm"
 ]
