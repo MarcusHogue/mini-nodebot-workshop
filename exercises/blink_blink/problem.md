@@ -18,7 +18,7 @@ Wire up an Arduino, connect the USB and you can see your solution run for real.
 
 # Blink...Blink
 
-**Write a program that blinks an LED attached to pin 13 once every second.**
+**Write a program that blinks an LED attached to pin D7 once every second.**
 
 - When the board is ready, create a new `Led` instance.
 - Pass a number to the `Led` constructor to tell it which pin to attach to.
