@@ -38,12 +38,16 @@ In all of your solutions you will need to:
 - Your solution goes inside that callback...
 
 ```js
-  var five = require('johnny-five')
-  var board = new five.Board()
+  var five = require(‘johnny-five')
+  var Particle = require("particle-io");
+  var board = new five.Board({
+    io: new Particle({
+      token: 'your-token-device-long-string-here',
+      deviceName: 'YourDeviceNameHere'
+    })
+  });
   board.on('ready', function () {
-
-    // Your solution here!
-
+           // Your solution here!
   })
 ```
 
