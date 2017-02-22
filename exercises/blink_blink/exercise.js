@@ -24,7 +24,7 @@ exercise.addProcessor(function (mode, callback) {
 })
 
 var pins = {
-  led: 13
+  led: D7
 }
 
 // add a processor only for 'verify' calls
